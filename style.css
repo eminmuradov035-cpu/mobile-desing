@@ -1,0 +1,4 @@
+/* For a specific element's scrollbar */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
